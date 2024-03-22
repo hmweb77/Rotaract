@@ -32,6 +32,12 @@ const packagesData = {
       description: "4 days/3 nights package ERIC Board and CRs",
       price: 345,
     },
+    {
+      name: "Title six",
+      image: image1,
+      description: "4 days/3 nights package ERIC Board and CRs",
+      price: 345,
+    },
   ],
 };
 
